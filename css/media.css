@@ -1,0 +1,16 @@
+@media only screen and (max-width:991px){
+    .main-menu li>a{
+        padding: 8px 0px !important;
+    }
+    .main-menu{
+        padding: 10px !important;
+    }
+   
+    .dropdown-menu li>a{
+        width: 100% !important;
+        padding: 5px 10px !important;
+    }
+    .sub-btn{
+        margin-left: 0px !important;
+    }
+}
